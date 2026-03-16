@@ -1,0 +1,101 @@
+email_text,intent
+Can you send me the pricing details for the enterprise plan?,Pricing Inquiry
+What are the subscription costs for a team of 50 people?,Pricing Inquiry
+How much does your CRM software cost per month?,Pricing Inquiry
+Is there a discount available for annual billing?,Pricing Inquiry
+Can you share a pricing breakdown for the Pro plan?,Pricing Inquiry
+What is the cost of onboarding and setup?,Pricing Inquiry
+Do you offer any free trial before purchasing?,Pricing Inquiry
+Can I get a quote for 200 users?,Pricing Inquiry
+What payment methods do you accept?,Pricing Inquiry
+Are there any hidden charges in the basic plan?,Pricing Inquiry
+Please send the latest pricing sheet for your plans.,Pricing Inquiry
+Is there a student or startup discount available?,Pricing Inquiry
+How does your pricing compare to Salesforce?,Pricing Inquiry
+I would like to know the cost for the premium tier.,Pricing Inquiry
+What is included in the enterprise package and at what price?,Pricing Inquiry
+Can you provide pricing for 10 seats on your platform?,Pricing Inquiry
+Do you have a pay-as-you-go model?,Pricing Inquiry
+Is the API access included in the basic plan or costs extra?,Pricing Inquiry
+What is the refund policy if we cancel mid-month?,Pricing Inquiry
+We need a price list for our procurement team.,Pricing Inquiry
+I would like to schedule a demo of your CRM platform.,Demo Request
+Can someone show me how your product works?,Demo Request
+We are interested in a live demo next Tuesday.,Demo Request
+Can we set up a product walkthrough call this week?,Demo Request
+Please book a demo session for our team.,Demo Request
+I want to see a demo before making a purchase decision.,Demo Request
+Is it possible to get a guided tour of all the features?,Demo Request
+Can you arrange a product demonstration for our managers?,Demo Request
+We would like to see the CRM in action. Can we schedule a call?,Demo Request
+Looking for a demo at your earliest convenience.,Demo Request
+I need a walkthrough of the reporting and analytics features.,Demo Request
+Can I book a 30-minute demo with one of your sales reps?,Demo Request
+Please set up a demo for our IT department head.,Demo Request
+We want a demo focused on the automation capabilities.,Demo Request
+Is there a recorded demo I can share with my team?,Demo Request
+Let us schedule a demo call for Thursday afternoon.,Demo Request
+Can your team do a virtual demo for our remote staff?,Demo Request
+I am interested in seeing how the pipeline management works.,Demo Request
+Request for product demo – availability next week?,Demo Request
+We would love a hands-on demo before the quarter ends.,Demo Request
+Your software keeps crashing every time I try to export a report.,Complaint
+I have been waiting for 3 days and my issue is still not resolved.,Complaint
+This is unacceptable – the billing charged me twice this month.,Complaint
+Your customer support is extremely unhelpful and slow.,Complaint
+The CRM dashboard stopped loading after your last update.,Complaint
+I lost all my contact data after syncing. This is a disaster.,Complaint
+The mobile app is completely broken – nothing works.,Complaint
+My account was wrongly suspended without any notice.,Complaint
+We have been facing login issues for the past week.,Complaint
+Your product is not worth the price. Too many bugs.,Complaint
+The integration with Gmail broke after the recent patch.,Complaint
+Support tickets are being ignored. Very frustrating.,Complaint
+Emails are not syncing properly with the CRM.,Complaint
+I am very disappointed with the quality of your service.,Complaint
+The import feature is broken and we cannot upload our contacts.,Complaint
+We were promised a feature that was never delivered.,Complaint
+This downtime has cost us business. Who is responsible?,Complaint
+Notifications are not working and we keep missing follow-ups.,Complaint
+The search functionality returns wrong results. Please fix this.,Complaint
+Your team failed to deliver on the committed timeline.,Complaint
+How do I add a new user to my account?,General Question
+Where can I find documentation for the API?,General Question
+Does your CRM integrate with Slack?,General Question
+How do I export my contacts to a CSV file?,General Question
+Can I set up automated email sequences in your platform?,General Question
+How does the lead scoring system work?,General Question
+Is there a mobile app available for Android?,General Question
+What file formats are supported for data import?,General Question
+How do I reset my password?,General Question
+Can I customize the CRM dashboard?,General Question
+What is the maximum number of contacts I can store?,General Question
+Does the platform support multiple languages?,General Question
+How does the role-based access control work?,General Question
+Can I connect my Outlook calendar to the CRM?,General Question
+What are the system requirements to run your software?,General Question
+How do I create a custom report?,General Question
+Is there two-factor authentication available?,General Question
+How do I archive old deals in the pipeline?,General Question
+What happens to my data if I cancel my subscription?,General Question
+Can I use the CRM offline?,General Question
+"We have already chosen a different CRM provider, thanks.",Not Interested
+Please remove me from your mailing list.,Not Interested
+We are not looking for a CRM solution at this time.,Not Interested
+"Thank you, but we are not interested in your product.",Not Interested
+We already use a system that meets our needs.,Not Interested
+Please stop sending us promotional emails.,Not Interested
+We are not in the market for new software right now.,Not Interested
+This is not relevant to our business. Unsubscribe please.,Not Interested
+We evaluated your product and decided it is not a fit for us.,Not Interested
+"No thanks, we are happy with our current tools.",Not Interested
+We have decided to go with a competitor. Good luck.,Not Interested
+Our team does not require a CRM at this stage.,Not Interested
+Kindly do not contact us again regarding this product.,Not Interested
+"We just renewed with another vendor, so not interested.",Not Interested
+Not interested. Please take us off your list.,Not Interested
+We are a non-profit and cannot afford any new software.,Not Interested
+This is not relevant to what we do. Please stop emailing.,Not Interested
+We looked at your demo and it does not meet our requirements.,Not Interested
+Thanks for reaching out but we will pass for now.,Not Interested
+Our budget has been cut and we cannot invest in new tools.,Not Interested
