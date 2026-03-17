@@ -108,11 +108,15 @@ You can use the `test.py` script or import the function into your own Python cod
 
 ---
 
-## 📈 Prediction Examples
+## 📈 Prediction Examples Tags Model
 
 ![examples](examples.png)
 
 ---
+
+## 📈 Prediction Examples Intent Model
+
+![examples2](1000064690.jpg)
 
 ## Model Performance
 ![epochs](epochs.png)
